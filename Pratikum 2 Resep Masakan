@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masak-masak</title>
+</head>
+<body>
+    <h2 style="text-align: center;">Masak Bersama Bunda Inul</h1>
+    <h4 style="font-size: 20px;">Oseng Teri Ikan</h4>
+    <p style="font-size: 18px;">
+    <img src="./oseng teri kentang.png" width="225" alt="bintang"align="right" hspace="50" vspace="10" style="border-radius: 10px;">
+    Bahan-bahan :
+    <ul style="list-style-type: '🤠'">
+        <li>3 Buah kentang</li>
+        <li>150 gr- ikan teri asin</li>
+        <li>garam, gula dan kaldu bubuk secukupnya</li>
+    </ul>
+    Bumbu Iris : 
+    <ul style="list-style-type: '💕'">
+        <li>7 siung bawang merah</li>
+        <li>3 siung bawang putih</li>
+        <li>5 buah cabai merah</li>
+        <li>8 buah cabai rawit merah</li>
+        <li>2 batang daun bawang</li>
+    </ul>
+    </p>
+    <hr>
+    <h2>Langkah pembuatan : </h2>
+    <p style="font-size:18px">
+        <ol type="1">
+            <li>
+                Siapkan bahan bahan yang perlu dipotong
+                <br>
+                <img src="./bahan.png" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Siapkan tatakan lalu iris tipis bawang putih bawang merah tomat cabe dan ikan teri yang sudah di cuci.
+                <br>
+                <img src="./2.png" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Siapkan pan lalu tumis bawang putih bawang merah sampai harum.
+                <br>
+                <img src="./3.png" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Masukan cabe dan tomat aduk rata masak sampai layu masukan ikan teri, garam gula dan kaldu bubuk aduk sampai rata.
+                <br>
+                <img src="./4.png" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Masukan kentang aduk rata masak sampai matang angkat dan sajikan.
+                <br>
+                <img src="./5.png" width="150" style="border-radius: 10px;">
+            </li>
+        </ol>
+    </p>
+</body>
+</html>
